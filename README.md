@@ -1,3 +1,2 @@
 # prova1
-prova primo repository
-questo è il primo branch, modificato
+prova primo branch
